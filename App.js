@@ -8,7 +8,7 @@ export default function App() {
   let frases = [
     'Siga os bons e aprenda com eles',
     'O bom-senso vale mais do que muito conhecimento',
-    'O riso é a menonr distância entre duas pessoas',
+    'O riso é a menor distância entre duas pessoas',
     '6 digitos antes dos 7 palmos',
     'Acredite em milagres, mas não dependa deles',
     'Realize o obvio, pense no improvavel e conquiste o impossível',
